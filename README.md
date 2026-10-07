@@ -56,3 +56,7 @@ Genera `dist\SensFinder.exe` con PyInstaller.
 | `rawmouse.py` | Raw Input del mouse vía ctypes |
 | `music.py` | Captura de audio WASAPI y detección de ritmo |
 | `sounds.py` | Sonidos del juego |
+
+## Licencia
+
+[MIT](LICENSE).
